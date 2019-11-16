@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271186924639",
+    "firebase_url": "https://hey-hungry-internship.firebaseio.com",
+    "project_id": "hey-hungry-internship",
+    "storage_bucket": "hey-hungry-internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271186924639:android:a06d5ba89fa3aa081377ea",
+        "android_client_info": {
+          "package_name": "com.androboot.heyhungryinternship2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271186924639-e46s4nri3e3lv0sfcnttubtk51dekmc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androboot.heyhungryinternship2",
+            "certificate_hash": "4a913c97aea91fa02e006d6b9216df9844512928"
+          }
+        },
+        {
+          "client_id": "271186924639-l0mjk9njjm7ssuf5cko8so8unhuhl7fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2uZea7nV4qgz-ZO09jRTOeWbVNQn3Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271186924639-l0mjk9njjm7ssuf5cko8so8unhuhl7fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
